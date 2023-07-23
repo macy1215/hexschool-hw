@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="reset.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div class="nav">
+        <div class="container">
+            <ul class="list">
+                <li><a href="#">WILLIAM LEE</a></li>
+                <li><a href="#">BASED IN TAIWAN</a></li>
+                <li><a href="#">CURRENTLY FRONT END ENGINEER AT HEXSCHOOL</a></li>
+                <li><a href="#">CONTACT ME</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="banner">
+            <div class="container ban_layout">
+                <div class="avatar">
+                    <img src="img-week2/people.png" alt="avatar">
+                </div>
+                <div class="intro_word">
+                    <h2 class="font_style">Hi</2>
+                    <h2 class="font_style">I’m a front-end developer</h2>
+                    <h1 class="green font_style">William</h1>
+                    <div class="btn">
+                        <a class="btn_word" href="#">
+                            <span class="ml_4 font_style">contact me</span>
+                            <img class="arrow_icon" src="img-week2/arrow_outward.svg" alt="arrow">
+                        </a>
+                    </div>
+                </div>
+            </div>
+    </div>
+    <div class="intro">
+        <div class="intro_box container">
+            <div class="intro_l">
+                <h2 class="font-color font_style">Introduction</h2>
+                <p class="content  font-color  font_style">Hi, I'm William Lee, a Front-End Developer with a passion for building beautiful and responsive websites that provide an optimal user experience.</p>
+                <div>
+                    <ul class="dec_img">
+                        <li><img src="img-week2/sparkle-sm.png" alt=""></li>
+                        <li><img src="img-week2/sparkle-sm.png" alt=""></li>
+                        <li><img src="img-week2/sparkle-sm.png" alt=""></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="intro_r">
+                <div>
+                    <ul class="intro_pic">
+                        <li><img src="img-week2/sparkle.png" alt="sparkle"></li>
+                        <li><img src="img-week2/photographer.png" alt="photographer"></li>
+                        <li><img src="img-week2/people-2.png" alt="people"></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="about">  
+            <ul class="cards font_style">
+                <li class="card_box">
+                    <div class="card_title font_style">01</div>
+                    <div class="card_title font_style">Attention to Detail</div>
+                    <p class=" font_style">Meticulous code analysis and optimization.</p>
+                </li>
+                <li class="card_box">
+                    <div class="card_title font_style">02</div>
+                    <div class="card_title font_style">Adaptability</div>
+                    <p class=" font_style">Swift learning of new technologies.</p>
+                </li>
+                <li class="card_box">
+                    <div class="card_title">03</div>
+                    <div class="card_title">Problem Solver</div>
+                    <p class=" font_style">Identifying and resolving issues.</p>
+                </li>
+                <li class="card_box">
+                    <div class="card_title">04</div>
+                    <div class="card_title">Team Player</div>
+                    <p class=" font_style">Collaborates and shares ideas.</p>
+                </li>
+            </ul>
+            <div class="about_content">
+                <h2 class="font_style"> About Me</h2>
+                <div class="content font_style">With over 5 years of experience, I'm proficient in HTML, CSS, JavaScript, jQuery, and React. I have a strong understanding of user experience design and accessibility. I'm always learning new technologies and techniques to stay up-to-date in the field.</div>
+            </div>
+        </div>
+     </div>
+        <div class="contact">
+            <div class="container contact_box">
+                <div class="contact_left">
+                    <h2 class="contact_title">CONTACT ME</h2>
+                    <img src="img-week2/trending_flat_black_24dp 1.png" alt="arrow">
+                </div>
+                <div>
+                    <div class="contact_right">
+                        <a href="#" class="focus_icon margin_r20"><img src="img-week2/discord.png" alt="discord_icon"></a>
+                        <a href="#" class="focus_icon margin_r20"><img src="img-week2/instagram.png" alt="instagram_icon"></a>
+                        <a href="#" class="focus_icon margin_r20"><img src="img-week2/message.png" alt="message_icon"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="project">
+            <div class="container">
+                <h2>My Projects</h2>
+            </div>
+            <div class="project_box container">
+                <div class="pic_left">
+                    <img src="img-week2/Rectangle 10.png" alt="laptop">
+                </div>
+                <div class="pic_right">
+                    <div class="top">
+                        <img src="img-week2/Rectangle 15.png" alt="wathed screen">
+                        <div class="pic_right_content">
+                            <p>I've worked on a variety of websites, including e-commerce sites, blogs, and landing pages. I take pride in creating clean, efficient, and user-friendly code.</p>
+                            <a href="#" class="btn">
+                                SEE MORE
+                                <div class="btn_arrow" >
+                                    <img src="img-week2/arrow_outward-white.png" alt="arrow outward">
+                                </div>
+                            </a>
+                        </div>    
+                    </div>
+                    <div class="bottom">
+                        <img src="img-week2/Rectangle 14.png" alt="phone">
+                        <img src="img-week2/Rectangle 29.png" alt="conputers">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer">
+                <p>all rights reserved @hexschool2023</p>
+        </div>
+    </div>
+</body>
+</html>
