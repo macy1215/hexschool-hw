@@ -67,6 +67,7 @@ img{
 
 .list > li:not(:last-child) {
     width: 306px;
+    color:#fff;
 }
 
 .list > li:last-child {
