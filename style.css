@@ -259,7 +259,7 @@ img{
     display: flex;
     align-items: start;
 }
-.pic_right ol{
+ol{
     display:flex;
     justify-content:space-between;
 }
