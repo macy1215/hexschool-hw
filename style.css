@@ -258,6 +258,9 @@ img{
 .project_box{
     display: flex;
     align-items: start;
+}
+.bottom{
+    display:flex;
     justify-content:space-between;
 }
 .left_pic{
