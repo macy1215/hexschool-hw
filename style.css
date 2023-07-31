@@ -145,6 +145,9 @@ img{
     width: 526px;
     margin-right: 24px;
 }
+.intro_l h2{
+    padding-bottom:36px;
+}
 .dec_img{
     display: flex;
 }
