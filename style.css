@@ -259,7 +259,7 @@ img{
     display: flex;
     align-items: start;
 }
-.bottom .left_pic{
+.bottom .left_pic img{
     margin-right:24px;
 }
 .pic_left{
