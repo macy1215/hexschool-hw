@@ -259,7 +259,7 @@ img{
     display: flex;
     align-items: start;
 }
-.project_box .bottom{
+.bottom .left_pic{
     margin-right:24px;
 }
 .pic_left{
