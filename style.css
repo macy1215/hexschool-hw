@@ -259,7 +259,7 @@ img{
     display: flex;
     align-items: start;
 }
-ol .bottom{
+.pic_right .bottom{
     display:flex;
     justify-content:space-between;
 }
