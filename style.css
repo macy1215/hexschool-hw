@@ -255,6 +255,9 @@ img{
     display: flex;
     align-items: start;
 }
+.project_box .bottom{
+    margin-right:24px;
+}
 .pic_left{
     width: 416px;
     margin-right: 24px;
