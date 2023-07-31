@@ -86,7 +86,6 @@ img{
 }
 .ban_layout{
     display: flex;
-    justify-content: center;
     align-items: center;
 }
 .avatar{
@@ -136,7 +135,6 @@ img{
 }
 .intro_box{
     display: flex;
-    justify-content: center;
     padding: 160px 0px;
     
 }
@@ -253,7 +251,6 @@ img{
 }
 .project_box{
     display: flex;
-    justify-content: center;
     align-items: start;
 }
 .pic_left{
